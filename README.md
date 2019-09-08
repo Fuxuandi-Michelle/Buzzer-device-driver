@@ -1,10 +1,11 @@
 # Buzzer-device-driver
 
+The program is basically developed to control the frequency and duty cycle of the buzzer. 
+
 Instruction for compile is provided for reference.
 
 Please note that the following is only for reference, 
 changes may need to be done if any difference.
-
 
 1. copy the folder buzzer_application, the file buzzer_driver.c and button_driver.c to linux-3.0.8/drivers/char
 (please not the folder buzzer_application is copied, not buzzer_application.c)
