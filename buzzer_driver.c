@@ -252,5 +252,5 @@ module_exit(zili_demo_char_buzzer_dev_exit);
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("FriendlyARM Inc.");
+MODULE_AUTHOR("Michelle FU");
 MODULE_DESCRIPTION("S5PV210 Buzzer Driver");
