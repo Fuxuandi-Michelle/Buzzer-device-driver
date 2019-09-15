@@ -218,5 +218,5 @@ module_init(zili_demo_char_button_init);
 module_exit(zili_demo_char_button_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("FU Xuandi <xuandfu@polyu.edu.hk>");
+MODULE_AUTHOR("Michelle FU <xuandfu@polyu.edu.hk>");
 MODULE_DESCRIPTION("Char Driver Development: BUTTON Detection. Course: HK POLYU COMP 309");
